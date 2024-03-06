@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to SAVA, your Smart Autonomous Virtual Assistant! SAVA is not just a robot; it's your reliable guide and companion on the college campus. With SAVA, you can navigate from any place to another using the shortest path possible while also getting your doubts cleared regarding the college.
+Welcome to SAVA, your Smart Autonomous Virtual Assistant! SAVA is not just a robot; it's your reliable guide and companion on the college campus. With SAVA, you can navigate from any place to another using the shortest path possible while also getting your doubts regarding the college.
 
 ## Features
 
@@ -20,6 +20,14 @@ Using SAVA is straightforward:
 2. **Specify Your Destination:** Tell SAVA where you want to go within the campus.
 3. **Follow SAVA's Guidance:** SAVA will guide you along the shortest path to your destination, providing real-time updates along the way.
 4. **Ask Questions:** Feel free to ask SAVA any questions you have about the college, and it will provide accurate answers promptly.
+
+
+## How to run SAVA
+
+1. Install the application given above on any Android device.
+2. Connect the Device and Raspberry Pi over the Local Network.
+3. Run the Path generator file on Raspberry Pi.
+4. To check the generated path run the Map.py with the coordinates generated in the above file.
 
 ## Why Choose SAVA?
 
